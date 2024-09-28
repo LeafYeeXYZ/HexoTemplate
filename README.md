@@ -31,7 +31,7 @@
 git clone https://github.com/xxx/HexoTemplate.git
 ```
 
-> 如果您还是不清楚如何在制定文件夹打开终端, 请下载并安装 [VSCode](https://code.visualstudio.com/), 并在其中打开你想要存放博客的文件夹, 此时使用 `VSCode` 内置的终端即可 (那个终端的工作目录默认就是你打开的文件夹)
+> 如果您还是不清楚如何在指定文件夹打开终端, 请下载并安装 [VSCode](https://code.visualstudio.com/), 并在其中打开你想要存放博客的文件夹, 此时使用 `VSCode` 内置的终端即可 (那个终端的工作目录默认就是你打开的文件夹)
 
 ### 5 进入项目目录并安装依赖
 
